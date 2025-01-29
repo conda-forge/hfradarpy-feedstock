@@ -3,15 +3,11 @@ About hfradarpy-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hfradarpy-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/rucool/hfradarpy
+Home: https://github.com/rowg/hfradarpy
 
 Package license: MIT
 
-Summary: Toolbox to read in High Frequency Radar (HFR) files written in the Codar Tabular Format (CTF). Easily read CODAR Ocean Sensors SeaSonde and HELZEL Messtechnik GmbH WERA radial files.
-
-Development: https://github.com/rucool/hfradarpy
-
-Documentation: https://hfradarpy.readthedocs.io/en/latest/
+Summary: Toolbox to work with High Frequency Radar (HFR) files for coastal ocean observing.
 
 Current build status
 ====================
